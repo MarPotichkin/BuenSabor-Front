@@ -1,0 +1,53 @@
+footer {
+    background-color: #37241f!important;
+    color: #fff;
+    padding: 40px 0 15px 0;
+}
+footer h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+footer ul{
+    padding: 0;
+    list-style: none;
+}
+footer ul li{
+    line-height: 35px;
+}
+footer a{
+    color: #fff;
+}
+footer a:hover{
+    color:#fccd4d;
+    text-decoration: none;
+}
+footer ul li{
+    font-weight: 300;
+}
+footer ul li, footer p, footer a {
+    line-height: 25px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+footer p, footer a{
+    margin-bottom: 0;
+}
+.text-copyright {
+    margin: 0;
+    text-align: center;
+    font-size: 12px;
+    border-top: 1px solid #fff;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.redes-bs{
+    width: 100%;
+    margin-top: 15px;
+}
+.redes-bs i{
+    font-size: 25px; 
+    margin-right: 20px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
